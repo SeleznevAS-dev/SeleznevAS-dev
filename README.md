@@ -1,4 +1,4 @@
-<h1 align="center"> Seleznev Alexander / Python developer </h1>
+<h1 align="center"> Alexander Seleznev / Python developer </h1>
 
 ###
 
